@@ -49,5 +49,9 @@ Gracias a la implementación del modelo estrella y consultas SQL analíticas, el
    git clone https://github.com/Migfive/Data-Warehouse-Financiero.git
 
 
-## ⚙️ Previzualización 
+## 📈 Previzualización 
 ![Gráfica](Warehouse.png)
+
+
+## 📈 link 
+https://data-warehouse-financiero-jmdgntpvfjcujzbkhfcfke.streamlit.app/ 
