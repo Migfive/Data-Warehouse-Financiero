@@ -53,5 +53,5 @@ Gracias a la implementación del modelo estrella y consultas SQL analíticas, el
 ![Gráfica](Warehouse.png)
 
 
-## 📈 link 
+## 🎈 link 
 https://data-warehouse-financiero-jmdgntpvfjcujzbkhfcfke.streamlit.app/ 
